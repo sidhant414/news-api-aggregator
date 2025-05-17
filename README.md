@@ -28,9 +28,6 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
 
 
 
